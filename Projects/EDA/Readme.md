@@ -1,3 +1,7 @@
 # Analysis of Bank Customers Details
 
     This EDA contains information about all the customers who were contacted to open term deposit accounts.
+    
+# House Price Prediction
+
+     Here,the price of house is predicted using linear regression model based on Income,House age,Number of rooms,Number of bedrooms and Population.
