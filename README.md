@@ -8,13 +8,13 @@
 
    Dashboard
    
-# Project
+   Project
    
-   Python Core
+      Python Core
    
-   Exploratory Data Analysis
+      Exploratory Data Analysis
    
-   Group Project
+      Group Project
    
 # Tools Used:
 
