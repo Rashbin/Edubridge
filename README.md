@@ -4,9 +4,15 @@
 
 # Contents:
 
-   Assignments
+   ## Assignments:
+   
+         📝 Python
 
-   Dashboard
+   ## Dashboard:
+            
+          🔲  Excel
+            
+          🔲  Tableau
    
    Project
    
