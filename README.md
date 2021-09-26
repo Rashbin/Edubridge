@@ -14,25 +14,28 @@
             
           🔲  Tableau
    
-   Project
+   ## Project:
    
-      Python Core
+          🔲  Analysis
+              
+          🔲  Group Projects
    
-      Exploratory Data Analysis
+          🔲  Python Core
    
-      Group Project
+          🔲  Final project
+      
    
-# Tools Used:
+   ## Tools Used:
 
-   Anaconda
+           🛠  Anaconda
 
-   R Studio
+           🛠  R Studio
 
-   Mongo DB
+           🛠  Mongo DB
 
-   Tableau 
+           🛠  Tableau 
    
-   Excel
+           🛠  Excel
    
    
 
