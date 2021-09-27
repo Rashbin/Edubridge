@@ -1,1 +1,1 @@
-  In this model of Linear Regression ,we can predict the health care cost. 
+  This is the analysis of "Health Care Cost" in R using LinearRegression model
